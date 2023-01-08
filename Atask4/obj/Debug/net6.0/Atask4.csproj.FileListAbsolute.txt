@@ -1,0 +1,15 @@
+/Users/mityukov/Desktop/GeekBrains/Homework/Homework8/Atask4/obj/Debug/net6.0/Atask4.csproj.AssemblyReference.cache
+/Users/mityukov/Desktop/GeekBrains/Homework/Homework8/Atask4/obj/Debug/net6.0/Atask4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mityukov/Desktop/GeekBrains/Homework/Homework8/Atask4/obj/Debug/net6.0/Atask4.AssemblyInfoInputs.cache
+/Users/mityukov/Desktop/GeekBrains/Homework/Homework8/Atask4/obj/Debug/net6.0/Atask4.AssemblyInfo.cs
+/Users/mityukov/Desktop/GeekBrains/Homework/Homework8/Atask4/obj/Debug/net6.0/Atask4.csproj.CoreCompileInputs.cache
+/Users/mityukov/Desktop/GeekBrains/Homework/Homework8/Atask4/bin/Debug/net6.0/Atask4
+/Users/mityukov/Desktop/GeekBrains/Homework/Homework8/Atask4/bin/Debug/net6.0/Atask4.deps.json
+/Users/mityukov/Desktop/GeekBrains/Homework/Homework8/Atask4/bin/Debug/net6.0/Atask4.runtimeconfig.json
+/Users/mityukov/Desktop/GeekBrains/Homework/Homework8/Atask4/bin/Debug/net6.0/Atask4.dll
+/Users/mityukov/Desktop/GeekBrains/Homework/Homework8/Atask4/bin/Debug/net6.0/Atask4.pdb
+/Users/mityukov/Desktop/GeekBrains/Homework/Homework8/Atask4/obj/Debug/net6.0/Atask4.dll
+/Users/mityukov/Desktop/GeekBrains/Homework/Homework8/Atask4/obj/Debug/net6.0/refint/Atask4.dll
+/Users/mityukov/Desktop/GeekBrains/Homework/Homework8/Atask4/obj/Debug/net6.0/Atask4.pdb
+/Users/mityukov/Desktop/GeekBrains/Homework/Homework8/Atask4/obj/Debug/net6.0/Atask4.genruntimeconfig.cache
+/Users/mityukov/Desktop/GeekBrains/Homework/Homework8/Atask4/obj/Debug/net6.0/ref/Atask4.dll
